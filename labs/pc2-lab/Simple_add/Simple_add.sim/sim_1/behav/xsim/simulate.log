@@ -1,0 +1,1195 @@
+Time resolution is 1 ps
+Error: Error in addition
+Time: 1 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 1 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 1
+Time: 1 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 11 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 11 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 2
+Time: 11 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 16 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 16 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 3
+Time: 16 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 21 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 21 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 4
+Time: 21 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 26 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 26 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 5
+Time: 26 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 31 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 31 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 6
+Time: 31 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 36 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 36 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 7
+Time: 36 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 41 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 41 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 8
+Time: 41 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 46 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 46 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 9
+Time: 46 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 51 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 51 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 10
+Time: 51 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 56 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 56 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 11
+Time: 56 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 61 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 61 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 12
+Time: 61 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 66 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 66 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 13
+Time: 66 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 71 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 71 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 14
+Time: 71 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 76 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 76 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 15
+Time: 76 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 81 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 81 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 16
+Time: 81 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 86 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 86 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 17
+Time: 86 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 91 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 91 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 18
+Time: 91 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 96 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 96 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 19
+Time: 96 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 101 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 101 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 20
+Time: 101 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 106 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 106 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 21
+Time: 106 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 111 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 111 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 22
+Time: 111 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 116 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 116 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 23
+Time: 116 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 121 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 121 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 24
+Time: 121 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 126 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 126 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 25
+Time: 126 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 131 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 131 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 26
+Time: 131 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 136 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 136 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 27
+Time: 136 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 141 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 141 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 28
+Time: 141 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 146 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 146 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 29
+Time: 146 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 151 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 151 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 30
+Time: 151 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 156 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 156 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 31
+Time: 156 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 161 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 161 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 32
+Time: 161 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 166 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 166 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 33
+Time: 166 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 171 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 171 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 34
+Time: 171 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 176 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 176 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 35
+Time: 176 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 181 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 181 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 36
+Time: 181 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 186 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 186 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 37
+Time: 186 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 191 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 191 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 38
+Time: 191 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 196 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 196 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 39
+Time: 196 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 201 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 201 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 40
+Time: 201 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 206 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 206 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 41
+Time: 206 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 211 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 211 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 42
+Time: 211 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 216 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 216 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 43
+Time: 216 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 221 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 221 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 44
+Time: 221 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 226 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 226 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 45
+Time: 226 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 231 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 231 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 46
+Time: 231 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 236 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 236 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 47
+Time: 236 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 241 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 241 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 48
+Time: 241 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 246 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 246 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 49
+Time: 246 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 251 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 251 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 50
+Time: 251 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 256 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 256 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 51
+Time: 256 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 261 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 261 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 52
+Time: 261 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 266 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 266 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 53
+Time: 266 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 271 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 271 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 54
+Time: 271 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 276 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 276 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 55
+Time: 276 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 281 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 281 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 56
+Time: 281 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 286 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 286 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 57
+Time: 286 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 291 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 291 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 58
+Time: 291 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 296 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 296 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 59
+Time: 296 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 301 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 301 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 60
+Time: 301 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 306 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 306 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 61
+Time: 306 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 311 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 311 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 62
+Time: 311 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 316 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 316 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 63
+Time: 316 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 321 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 321 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 64
+Time: 321 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 326 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 326 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 65
+Time: 326 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 331 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 331 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 66
+Time: 331 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 336 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 336 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 67
+Time: 336 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 341 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 341 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 68
+Time: 341 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 346 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 346 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 69
+Time: 346 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 351 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 351 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 70
+Time: 351 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 356 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 356 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 71
+Time: 356 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 361 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 361 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 72
+Time: 361 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 366 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 366 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 73
+Time: 366 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 371 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 371 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 74
+Time: 371 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 376 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 376 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 75
+Time: 376 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 381 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 381 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 76
+Time: 381 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 386 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 386 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 77
+Time: 386 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 391 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 391 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 78
+Time: 391 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 396 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 396 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 79
+Time: 396 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 401 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 401 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 80
+Time: 401 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 406 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 406 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 81
+Time: 406 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 411 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 411 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 82
+Time: 411 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 416 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 416 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 83
+Time: 416 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 421 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 421 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 84
+Time: 421 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 426 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 426 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 85
+Time: 426 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 431 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 431 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 86
+Time: 431 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 436 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 436 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 87
+Time: 436 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 441 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 441 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 88
+Time: 441 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 446 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 446 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 89
+Time: 446 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 451 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 451 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 90
+Time: 451 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 456 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 456 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 91
+Time: 456 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 461 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 461 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 92
+Time: 461 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 466 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 466 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 93
+Time: 466 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 471 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 471 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 94
+Time: 471 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 476 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 476 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 95
+Time: 476 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 481 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 481 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 96
+Time: 481 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 486 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 486 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 97
+Time: 486 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 491 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 491 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 98
+Time: 491 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 496 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 496 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 99
+Time: 496 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 501 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 501 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 100
+Time: 501 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 506 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 506 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 101
+Time: 506 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 511 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 511 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 102
+Time: 511 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 516 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 516 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 103
+Time: 516 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 521 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 521 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 104
+Time: 521 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 526 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 526 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 105
+Time: 526 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 531 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 531 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 106
+Time: 531 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 536 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 536 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 107
+Time: 536 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 541 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 541 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 108
+Time: 541 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 546 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 546 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 109
+Time: 546 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 551 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 551 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 110
+Time: 551 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 556 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 556 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 111
+Time: 556 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 561 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 561 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 112
+Time: 561 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 566 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 566 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 113
+Time: 566 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 571 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 571 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 114
+Time: 571 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 576 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 576 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 115
+Time: 576 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 581 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 581 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 116
+Time: 581 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 586 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 586 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 117
+Time: 586 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 591 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 591 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 118
+Time: 591 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 596 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 596 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 119
+Time: 596 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 601 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 601 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 120
+Time: 601 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 606 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 606 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 121
+Time: 606 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 611 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 611 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 122
+Time: 611 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 616 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 616 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 123
+Time: 616 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 621 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 621 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 124
+Time: 621 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 626 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 626 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 125
+Time: 626 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 631 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 631 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 126
+Time: 631 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 636 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 636 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 127
+Time: 636 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 641 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 641 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 128
+Time: 641 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 646 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 646 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 129
+Time: 646 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 651 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 651 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 130
+Time: 651 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 656 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 656 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 131
+Time: 656 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 661 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 661 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 132
+Time: 661 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 666 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 666 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 133
+Time: 666 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 671 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 671 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 134
+Time: 671 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 676 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 676 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 135
+Time: 676 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 681 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 681 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 136
+Time: 681 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 686 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 686 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 137
+Time: 686 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 691 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 691 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 138
+Time: 691 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 696 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 696 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 139
+Time: 696 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 701 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 701 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 140
+Time: 701 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 706 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 706 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 141
+Time: 706 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 711 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 711 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 142
+Time: 711 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 716 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 716 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 143
+Time: 716 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 721 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 721 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 144
+Time: 721 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 726 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 726 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 145
+Time: 726 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 731 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 731 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 146
+Time: 731 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 736 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 736 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 147
+Time: 736 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 741 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 741 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 148
+Time: 741 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 746 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 746 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 149
+Time: 746 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 751 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 751 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 150
+Time: 751 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 756 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 756 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 151
+Time: 756 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 761 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 761 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 152
+Time: 761 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 766 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 766 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 153
+Time: 766 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 771 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 771 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 154
+Time: 771 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 776 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 776 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 155
+Time: 776 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 781 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 781 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 156
+Time: 781 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 786 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 786 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 157
+Time: 786 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 791 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 791 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 158
+Time: 791 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 796 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 796 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 159
+Time: 796 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 801 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 801 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 160
+Time: 801 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 806 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 806 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 161
+Time: 806 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 811 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 811 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 162
+Time: 811 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 816 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 816 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 163
+Time: 816 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 821 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 821 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 164
+Time: 821 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 826 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 826 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 165
+Time: 826 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 831 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 831 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 166
+Time: 831 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 836 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 836 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 167
+Time: 836 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 841 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 841 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 168
+Time: 841 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 846 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 846 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 169
+Time: 846 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 851 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 851 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 170
+Time: 851 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 856 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 856 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 171
+Time: 856 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 861 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 861 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 172
+Time: 861 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 866 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 866 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 173
+Time: 866 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 871 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 871 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 174
+Time: 871 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 876 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 876 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 175
+Time: 876 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 881 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 881 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 176
+Time: 881 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 886 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 886 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 177
+Time: 886 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 891 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 891 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 178
+Time: 891 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 896 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 896 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 179
+Time: 896 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 901 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 901 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 180
+Time: 901 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 906 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 906 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 181
+Time: 906 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 911 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 911 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 182
+Time: 911 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 916 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 916 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 183
+Time: 916 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 921 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 921 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 184
+Time: 921 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 926 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 926 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 185
+Time: 926 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 931 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 931 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 186
+Time: 931 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 936 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 936 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 187
+Time: 936 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 941 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 941 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 188
+Time: 941 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 946 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 946 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 189
+Time: 946 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 951 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 951 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 190
+Time: 951 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 956 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 956 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 191
+Time: 956 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 961 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '0'
+Time: 961 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 192
+Time: 961 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 966 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 966 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 193
+Time: 966 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 971 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 971 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 194
+Time: 971 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 976 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 976 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 195
+Time: 976 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 981 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 981 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 196
+Time: 981 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 986 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 986 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 197
+Time: 986 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 991 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 991 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 198
+Time: 991 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addition
+Time: 996 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton - expected Y: '1'
+Time: 996 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd
+Error: Error in addiiton! Current error count: 199
+Time: 996 ns  Iteration: 0  Process: /simple_adder_tb/line__117  File: D:/01_Slavek/01_SKOLA/vysoka/2024_magistersky/4_semestr/predmety/MPC-PLD/cviceni/2/simple_adder_tb.vhd

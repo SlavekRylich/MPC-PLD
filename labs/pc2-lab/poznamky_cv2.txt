@@ -1,0 +1,27 @@
+create project
+choose name and folder
+rtl project
+withou adding code
+default part (search)
+xc7z010clg400-1
+
+next -> finish
+
+
+new source -> new design 
+
+new source -> new simulation
+
+2. cviko
+STD_LOGIC - sjednocený typ který se používá v digitální technice, žádné bool nebo int nebo jiné 
+neumí + - musí se použít signed nebo unsigned typ - knihovna IEEE.NUMERIC_STD.ALL
+
+vhdl není program, je to soubor přiřazení, modulů, které popisují zapojení - nezáleží na pořadí příkazů
+
+
+testbanch něco jako pracovní deska v labu, kam si položím svoji testovanou součástku a další přístroje 
+jako generátor nebo zdroj a poté oscilátor
+
+pro simulaci musí být všechny zdrojáky uložené, dále simulační testbanch musí být tučně (jako aktivní - set as top)
+
+pokus nelze spustit simulaci ani po resetu simulation je potřeba v adresáři projektu smazat složku s příponou sim
