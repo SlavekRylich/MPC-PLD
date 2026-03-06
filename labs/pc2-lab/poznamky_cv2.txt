@@ -30,3 +30,5 @@ pokus nelze spustit simulaci ani po resetu simulation je potřeba v adresáři p
 3. cviko
 import externích souborů - bud příkazem v TCL nebo přes Sources (jakmile najdu a přidám, v tcl konzoli lze vidět odpovídající kód přidání)
 v constrains musí odpovídat vstupy a výstupy se zdrojovým kódem rp_top nic navíc nic méně
+
+při zkoušce můžeme nahlížet do zdrojáků odevzdaných v elearningu
