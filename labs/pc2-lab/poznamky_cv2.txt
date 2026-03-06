@@ -2,13 +2,13 @@ create project
 choose name and folder
 rtl project
 withou adding code
-default part (search)
-xc7z010clg400-1
+default part (search) component
+xc7z010clg400-1 - kdyžtak se dá upravit i později v project manager -> settings
 
 next -> finish
 
 
-new source -> new design 
+new source -> new design sources 
 
 new source -> new simulation
 
@@ -25,3 +25,8 @@ jako generátor nebo zdroj a poté oscilátor
 pro simulaci musí být všechny zdrojáky uložené, dále simulační testbanch musí být tučně (jako aktivní - set as top)
 
 pokus nelze spustit simulaci ani po resetu simulation je potřeba v adresáři projektu smazat složku s příponou sim
+
+
+3. cviko
+import externích souborů - bud příkazem v TCL nebo přes Sources (jakmile najdu a přidám, v tcl konzoli lze vidět odpovídající kód přidání)
+v constrains musí odpovídat vstupy a výstupy se zdrojovým kódem rp_top nic navíc nic méně
