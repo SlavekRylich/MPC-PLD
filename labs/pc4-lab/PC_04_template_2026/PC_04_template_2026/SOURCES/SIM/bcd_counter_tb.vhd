@@ -102,26 +102,36 @@ BEGIN
     ------------------------------------------------------------------------------
     -- reset of the counter
     ------------------------------------------------------------------------------
-    WAIT FOR C_CLK_PERIOD * 5;
+    WAIT FOR C_CLK_PERIOD * 2;
     cnt_reset   <= '1';
     WAIT FOR C_CLK_PERIOD * 2;
     cnt_reset   <= '0';
     ------------------------------------------------------------------------------
     -- place your own stimuli below
     ------------------------------------------------------------------------------
+    WAIT FOR C_CLK_PERIOD * 2;
+    cnt_reset   <= '0';
+    WAIT FOR C_CLK_PERIOD * 2;
+    cnt_enable   <= '1';
+    WAIT FOR C_CLK_PERIOD * 2;
+    disp_enable   <= '1';
 
 
+    WAIT FOR C_CLK_PERIOD * 100;
+    disp_enable   <= '0';    
+    WAIT FOR C_CLK_PERIOD * 10;
+    disp_enable   <= '1';    
+    WAIT FOR C_CLK_PERIOD * 10;
 
-
-
-
-
+    cnt_reset   <= '1';
+    WAIT FOR C_CLK_PERIOD * 2;
+    cnt_reset   <= '0';
 
 
     ------------------------------------------------------------------------------
     -- end of simulation
     ------------------------------------------------------------------------------
-    WAIT FOR C_CLK_PERIOD * 5;
+    WAIT FOR C_CLK_PERIOD * 100000;
     simulation_finished <= TRUE;
     WAIT;
   END PROCESS proc_stim;

@@ -16,15 +16,15 @@ ARCHITECTURE Behavioral OF sync_reg IS
 SIGNAL sig_reg : std_logic;
 SIGNAL sig_out_s : std_logic;
 
----- For Xilinx FPGAs place the following code right below the signal declaration:
---attribute ASYNC_REG : string;
---attribute ASYNC_REG of sig_reg : signal is "TRUE";
---attribute ASYNC_REG of sig_out : signal is "TRUE";
+-- For Xilinx FPGAs place the following code right below the signal declaration:
+attribute ASYNC_REG : string;
+attribute ASYNC_REG of sig_reg : signal is "TRUE";
+attribute ASYNC_REG of sig_out : signal is "TRUE";
 
----- For Xilinx FPGAs place the following code right below the signal declaration:
---attribute SHREG_EXTRACT : string;
---attribute SHREG_EXTRACT of sig_reg : signal is "NO";
---attribute SHREG_EXTRACT of sig_out : signal is "NO";
+-- For Xilinx FPGAs place the following code right below the signal declaration:
+attribute SHREG_EXTRACT : string;
+attribute SHREG_EXTRACT of sig_reg : signal is "NO";
+attribute SHREG_EXTRACT of sig_out : signal is "NO";
 
 
 ----------------------------------------------------------------------------------

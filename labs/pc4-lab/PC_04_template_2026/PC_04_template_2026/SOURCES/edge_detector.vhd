@@ -28,23 +28,23 @@ PROCESS (clk) BEGIN
 if rising_edge(clk) then
     sig_btn <= SIG_IN;
     
-    if sig_btn = '1' then
-        sig_btn_del <= sig_btn;
-    end if;
+    
 end if;
 END PROCESS;
 
 PROCESS (sig_btn, sig_btn_del) BEGIN
 
-if sig_btn = '1' and sig_btn = '0' then
-    sig_edge_pos <= '1';
+if sig_btn = '1' and SIG_IN = '0' then
+    sig_edge_pos <= '0';
     sig_edge_any <= '1';
-elsif sig_btn = '0' and sig_btn = '1' then 
     sig_edge_neg <= '1';
+elsif sig_btn = '0' and SIG_IN = '1' then 
+    sig_edge_neg <= '0';
     sig_edge_any <= '1';
+    sig_edge_pos <= '1';
 else
     sig_edge_pos <= '0';
-    sig_edge_neg <= '1';
+    sig_edge_neg <= '0';
     sig_edge_any <= '0';
 end if;
 END PROCESS;

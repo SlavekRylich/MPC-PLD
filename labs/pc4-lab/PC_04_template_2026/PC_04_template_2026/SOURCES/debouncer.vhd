@@ -20,7 +20,7 @@ ARCHITECTURE Behavioral OF debouncer IS
 SIGNAL sig_cnt      : integer range 0 to G_DEB_PERIOD :=0;
 SIGNAL sig_cnt_next : integer range 0 to G_DEB_PERIOD :=0;
 SIGNAL sig          : std_logic;
-SIGNAL shreg        : std_logic_vector (3 downto 0) := (others => '0');
+SIGNAL shreg        : std_logic_vector (G_DEB_PERIOD - 1 downto 0) := (others => '0');
 
 ----------------------------------------------------------------------------------
 BEGIN
@@ -30,18 +30,18 @@ PROCESS (CLK) BEGIN
     if rising_edge(CLK) then
         if CE = '1' then
             --- sig_cnt <= sig_cnt_next;
-            shreg <= shreg(2 downto 0) & BTN_IN;
+            shreg <= shreg(shreg'high - 1 downto 0) & BTN_IN;
         end if;
     end if;
 END PROCESS;
 
 --- 1st state sequential
 PROCESS (shreg) BEGIN
-    if shreg = "1111" then
+    if shreg = (shreg'range => '1') then
         sig <= '1';
     end if;
     
-    if shreg = "0000" then
+    if shreg = (shreg'range => '0') then
         sig <= '0';
     end if;
 END PROCESS;

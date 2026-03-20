@@ -29,13 +29,88 @@ ARCHITECTURE Structural OF rp_top IS
     DISP_DIG        : OUT STD_LOGIC_VECTOR (4 DOWNTO 0)
   );
   END COMPONENT seg_disp_driver;
+  
+  COMPONENT ce_gen
+  GENERIC (
+    G_DIV_FACT          : POSITIVE := 5
+  );
+  PORT(
+    CLK                 : IN  STD_LOGIC;
+    SRST                : IN  STD_LOGIC;
+    CE                  : IN  STD_LOGIC;
+    CE_O                : OUT STD_LOGIC 
+  );
+  END COMPONENT ce_gen;
+  
+  COMPONENT btn_in
+  GENERIC(
+    G_DEB_PERIOD                : POSITIVE := 3
+  );
+  PORT(
+    CLK                         : IN  STD_LOGIC;
+    CE                          : IN  STD_LOGIC;
+    BTN                         : IN  STD_LOGIC;
+    BTN_DEBOUNCED               : OUT STD_LOGIC;
+    BTN_EDGE_POS                : OUT STD_LOGIC;
+    BTN_EDGE_NEG                : OUT STD_LOGIC;
+    BTN_EDGE_ANY                : OUT STD_LOGIC
+  );
+  END COMPONENT btn_in;
+
+
+COMPONENT stopwatch_fsm 
+  PORT (
+    CLK                 : IN    STD_LOGIC;
+    BTN_S_S             : IN    STD_LOGIC;
+    BTN_L_C             : IN    STD_LOGIC;
+    CNT_RESET           : OUT   STD_LOGIC;
+    CNT_ENABLE          : OUT   STD_LOGIC;
+    DISP_ENABLE         : OUT   STD_LOGIC
+  );
+  END COMPONENT stopwatch_fsm;
+  
+  
+  COMPONENT bcd_counter 
+  PORT(
+    CLK                 : IN    STD_LOGIC;      -- clock signal
+    CE_100HZ            : IN    STD_LOGIC;      -- 100 Hz clock enable
+    CNT_RESET           : IN    STD_LOGIC;      -- counter reset
+    CNT_ENABLE          : IN    STD_LOGIC;      -- counter enable
+    DISP_ENABLE         : IN    STD_LOGIC;      -- enable display update
+    CNT_0               : OUT   STD_LOGIC_VECTOR(3 DOWNTO 0);
+    CNT_1               : OUT   STD_LOGIC_VECTOR(3 DOWNTO 0);
+    CNT_2               : OUT   STD_LOGIC_VECTOR(3 DOWNTO 0);
+    CNT_3               : OUT   STD_LOGIC_VECTOR(3 DOWNTO 0)
+  );
+  END COMPONENT bcd_counter;
 
   ------------------------------------------------------------------------------
+  --- clock enable
+  signal ce_100Hz       : std_logic;
+
+  --- button ss
+  signal btn_deb_ss_sig         : std_logic;
+  signal btn_edge_pos_ss_sig    : std_logic;
+  signal btn_edge_neg_ss_sig    : std_logic;
+  signal btn_edge_any_ss_sig    : std_logic;
+  
+  --- button lc
+  signal btn_deb_lc_sig         : std_logic;
+  signal btn_edge_pos_lc_sig    : std_logic;
+  signal btn_edge_neg_lc_sig    : std_logic;
+  signal btn_edge_any_lc_sig    : std_logic;
+  
+  --- fsm
+  signal cnt_enable_sig : std_logic;
+  signal disp_enable_sig : std_logic;
+  signal cnt_reset_sig : std_logic;
 
   SIGNAL cnt_0              : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL cnt_1              : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL cnt_2              : STD_LOGIC_VECTOR( 3 DOWNTO 0);
   SIGNAL cnt_3              : STD_LOGIC_VECTOR( 3 DOWNTO 0);
+  
+  
 
 ----------------------------------------------------------------------------------
 BEGIN
@@ -72,23 +147,76 @@ BEGIN
 
   --------------------------------------------------------------------------------
   -- clock enable generator
-
+  ce_gen_i : ce_gen
+  GENERIC MAP(
+    G_DIV_FACT           => 500000
+  )
+      PORT MAP(
+        CLK                => CLK,
+        SRST               => '0',
+        CE                 => '1',
+        CE_O               => ce_100Hz 
+    );
 
 
   --------------------------------------------------------------------------------
   -- button input module
-
+   btn_in_SS_i : btn_in
+       GENERIC MAP(
+        G_DEB_PERIOD                => 6
+      )
+       PORT MAP(
+        CLK                         => CLK,
+        CE                          => ce_100Hz,
+        BTN                         => BTN(0),
+        BTN_DEBOUNCED               => btn_deb_ss_sig,
+        BTN_EDGE_POS                => btn_edge_pos_ss_sig,
+        BTN_EDGE_NEG                => btn_edge_neg_ss_sig,
+        BTN_EDGE_ANY                => btn_edge_any_ss_sig
+  );
+  
+  btn_in_LC_i   : btn_in
+  GENERIC MAP(
+        G_DEB_PERIOD                => 6
+      )
+       PORT MAP(
+            CLK                         => CLK,
+            CE                          => ce_100Hz,
+            BTN                         => BTN(1),
+            BTN_DEBOUNCED               => btn_deb_lc_sig,
+            BTN_EDGE_POS                => btn_edge_pos_lc_sig,
+            BTN_EDGE_NEG                => btn_edge_neg_lc_sig,
+            BTN_EDGE_ANY                => btn_edge_any_lc_sig
+  );
 
 
   --------------------------------------------------------------------------------
   -- stopwatch module (4-decade BCD counter)
-
+stopwatch_i : bcd_counter 
+  PORT MAP(
+    CLK                 => CLK,             -- clock signal
+    CE_100HZ            => ce_100Hz,        -- 100 Hz clock enable
+    CNT_RESET           => cnt_reset_sig,      -- counter reset
+    CNT_ENABLE          => cnt_enable_sig,      -- counter enable
+    DISP_ENABLE         => disp_enable_sig,      -- enable display update
+    CNT_0               => cnt_0,
+    CNT_1               => cnt_1,
+    CNT_2               => cnt_2,
+    CNT_3               => cnt_3
+  );
 
 
   --------------------------------------------------------------------------------
   -- stopwatch control FSM
-
-
+fsm_i : stopwatch_fsm
+  PORT MAP(
+    CLK                 => CLK,
+    BTN_S_S             => btn_edge_pos_ss_sig,
+    BTN_L_C             => btn_edge_pos_lc_sig,
+    CNT_RESET           => cnt_reset_sig,
+    CNT_ENABLE          => cnt_enable_sig,
+    DISP_ENABLE         => disp_enable_sig
+  );
 
   --------------------------------------------------------------------------------
   -- LED connection
