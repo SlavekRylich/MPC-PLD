@@ -37,10 +37,12 @@ END PROCESS;
 
 --- 1st state sequential
 PROCESS (shreg) BEGIN
+    --- all ones
     if shreg = (shreg'range => '1') then
         sig <= '1';
     end if;
     
+    --- all zeros
     if shreg = (shreg'range => '0') then
         sig <= '0';
     end if;
