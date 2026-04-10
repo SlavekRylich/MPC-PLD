@@ -1,0 +1,2 @@
+VIO_7SEG.vhd,vhdl,xil_defaultlib,../../../../SOURCES/IP/vio_7seg/VIO_7SEG/sim/VIO_7SEG.vhd,incdir="../../../../../../../../../../../Appz/AMDDesignTools/2025.2/Vivado/data/rsb/busdef"incdir="../../../../SOURCES/IP/vio_7seg/VIO_7SEG/hdl/verilog"incdir="../../../../SOURCES/IP/vio_7seg/VIO_7SEG/hdl"
+glbl.v,Verilog,xil_defaultlib,glbl.v

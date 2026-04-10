@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../SOURCES/IP/vio_7seg/VIO_7SEG/sim/VIO_7SEG.vhd" \
+
+# Do not sort compile order
+nosort
