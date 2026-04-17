@@ -1,0 +1,5 @@
+vhdl xil_defaultlib  \
+"../../../../SOURCES/IP/FIR_50k/FIR_50k/sim/FIR_50k.vhd" \
+
+# Do not sort compile order
+nosort

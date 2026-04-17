@@ -1,0 +1,5 @@
+xbip_utils_v3_0_vh_rfs.vhd,vhdl,xbip_utils_v3_0_15,../../../ipstatic/hdl/xbip_utils_v3_0_vh_rfs.vhd,incdir="../../../../../../../../../../../Appz/AMDDesignTools/2025.2/Vivado/data/rsb/busdef"
+axi_utils_v2_0_vh_rfs.vhd,vhdl,axi_utils_v2_0_11,../../../ipstatic/hdl/axi_utils_v2_0_vh_rfs.vhd,incdir="../../../../../../../../../../../Appz/AMDDesignTools/2025.2/Vivado/data/rsb/busdef"
+xbip_pipe_v3_0_vh_rfs.vhd,vhdl,xbip_pipe_v3_0_11,../../../ipstatic/hdl/xbip_pipe_v3_0_vh_rfs.vhd,incdir="../../../../../../../../../../../Appz/AMDDesignTools/2025.2/Vivado/data/rsb/busdef"
+fir_compiler_v7_2_vh_rfs.vhd,vhdl,fir_compiler_v7_2_26,../../../ipstatic/hdl/fir_compiler_v7_2_vh_rfs.vhd,incdir="../../../../../../../../../../../Appz/AMDDesignTools/2025.2/Vivado/data/rsb/busdef"
+FIR_50k.vhd,vhdl,xil_defaultlib,../../../../SOURCES/IP/FIR_50k/FIR_50k/sim/FIR_50k.vhd,incdir="../../../../../../../../../../../Appz/AMDDesignTools/2025.2/Vivado/data/rsb/busdef"
